@@ -136,12 +136,12 @@ for match in range(1, 4):
     print(f"Injuries: {injuries}")
     print(f"Points: {points}")
 
-# ==========================
+
 # GROUP STANDINGS
-# ==========================
-print("\n===================================")
+
+
 print("GROUP STAGE COMPLETE")
-print("===================================")
+
 
 # Simulate the other teams
 team_b = random.randint(0, 9)
