@@ -2,7 +2,7 @@ from tkinter import *
 
 # Create window
 root = Tk()
-root.title("NIWA'S CALCULATOR")
+root.title("NIWA'S CALCULATOR")zz
 root.geometry("300x400")
 
 # Display screen
