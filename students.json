@@ -1,0 +1,27 @@
+{
+    "S001": {
+        "address": "Kampala",
+        "contact": "077712398",
+        "program": "Computer Science"
+    },
+    "S002": {
+        "address": "Kawempe",
+        "contact": "0760515361",
+        "program": "Software Engineering"
+    },
+    "24/u/1000": {
+        "address": "kala",
+        "contact": "07666664",
+        "program": "bse"
+    },
+    "24/u/2222": {
+        "address": "kama",
+        "contact": "078965432",
+        "program": "csc"
+    },
+    "24/u/3333": {
+        "address": "banda",
+        "contact": "078956473",
+        "program": "cscs"
+    }
+}
